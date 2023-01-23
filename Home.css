@@ -759,7 +759,6 @@
 .u-section-6 .u-repeater-1 {
   grid-template-columns: repeat(1, 100%);
   min-height: 426px;
-  grid-auto-columns: 100%;
   grid-gap: 30px;
 }
 
